@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#root {
+    background-image: url('./assets/cute-town-dark.png');
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    font-family:Special Elite;
+    min-height:100vh;
+    width:100%
+  }
+  
