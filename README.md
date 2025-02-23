@@ -20,5 +20,5 @@ A sleek and responsive weather app built with **React** and the **OpenWeather AP
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Sarthak2845/WeatherApp
    cd weather-app
